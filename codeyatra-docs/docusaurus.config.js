@@ -11,7 +11,7 @@ const config = {
     v4: true,
   },
 
-  url: 'https://your-docusaurus-site.example.com',
+  url: 'https://documentation-of-code-yatra-n2g5.vercel.app/',
   baseUrl: '/',
 
   organizationName: 'CodeBase404', // Your GitHub org/user
